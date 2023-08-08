@@ -1,2 +1,35 @@
-# cucetas-azuis
-cacac
+# AluraPlus
+
+
+**GABRIEL FOGUIETA BORGES**
+
+- SOU ALUNO DO SEGUNDO ANODO ENSINO MEDIO,DO COLEIO GABRIEL MARTINS 
+- TURMA 2 C
+- ESTUDO **CSS**E **HTML**
+- CURSOS DO ALURA
+
+ENTRE EM CONTATO PELO MEI E-MAIL
+**gabriel.foglieta.borges@escola.pr.gov.br**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
